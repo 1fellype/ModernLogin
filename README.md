@@ -1,14 +1,13 @@
 # Modern Login
-# Learning
 
- ![preview](./.github/preview.png)
+ ![preview](./.github/preview.jpg)
  
- - ,Login
+ - Login Page
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)](https://1fellype.github.io/Learning/)
+ [Clique aqui para acessar! :)](https://1fellype.github.io/ModernLogin/)
 
 ## Tecnologias
 
